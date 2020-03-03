@@ -1,11 +1,12 @@
 # Unexpected side effect in computed property
 목적 : 컴포넌트A(cmp-a), 컴포넌트 B(cmp-b)가 있다고 가정
-       cmp_a에 선택된 값에 따라 cmp_b를 default value로 setting 및 disabled
+      cmp_a에 선택된 값에 따라 cmp_b를 default value로 setting 및 disabled
 
 computed에 다른 data를 변경했기 때문
 computed에 정의된 flag를 watch에 추가해주는것으로 해결
 
-참고 : 
+참고 : https://stackoverflow.com/questions/53757107/handling-unexpected-side-effect-in-computed-properties-vuejs
+      https://kr.vuejs.org/v2/guide/computed.html
 
 as-is
 ```javascript
