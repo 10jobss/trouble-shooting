@@ -17,3 +17,5 @@ sudo yuum stix-fonts // 운영서버와 동일한 폰트 설치
 ```
 
 4. 서버 재기동
+
+https://catamaranframework.wordpress.com/2012/12/21/solved-java-lang-error-probable-fatal-errorno-fonts-found/
