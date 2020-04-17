@@ -1,2 +1,2 @@
 # trouble-shooting
-overcoming problems while working
+일하다 생긴 일
