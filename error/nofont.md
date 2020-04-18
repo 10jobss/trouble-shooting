@@ -13,7 +13,7 @@ yum list installed | grep font
 3. 백업서버에 폰트 설치
 ```sh
 sudo yum install fontconfig
-sudo yuum stix-fonts // 운영서버와 동일한 폰트 설치
+sudo yum stix-fonts // 운영서버와 동일한 폰트 설치
 ```
 
 4. 서버 재기동
