@@ -11,7 +11,7 @@ jenkins job 종료 후에 해당 사용자로 실행된 child process를 모두 
 - 해결   
 스크립트 실행 시 JENKINS_NODE_COOKIE=dontKillMe 또는 BUILD_ID=dontkillMe 옵션 추가
 
-- 참고
+- 참고   
 https://medium.com/@jjeaby/jenkins-pipeline-background-process-82af369e0e2d   
 https://blog.jiniworld.me/25   
 (사내 질문게시판에서 얻은 답변입니다.)
